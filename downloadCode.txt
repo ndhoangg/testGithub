@@ -1,0 +1,2 @@
+-git clone "link repo"
+-git pull
